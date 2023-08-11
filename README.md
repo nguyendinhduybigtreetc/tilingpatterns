@@ -1,5 +1,8 @@
+Give me a coffee: Momo 0919285582. TP-Bank: 01989615001, Vietcom-bank: 1014448113
+
 Setup:  
 pip install -U setuptools pip
+
 pip install -r .\requirement.txt
 Run: python main.py
 
